@@ -19,6 +19,16 @@ CloudTrail + GuardDuty + VPC Flow Logs
            SQS
             ↓
          Splunk
+## Infrastructure Components
+
+The monitoring pipeline was built using:
+
+- Amazon S3 for centralized log storage
+- Multi-region AWS CloudTrail for audit logging
+- Amazon GuardDuty for threat detection
+- VPC Flow Logs for network telemetry
+- Amazon SNS and SQS for event delivery
+- Splunk Enterprise for log ingestion and analysis
 
 ## Technologies
 
