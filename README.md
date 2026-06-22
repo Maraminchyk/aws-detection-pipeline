@@ -12,7 +12,10 @@ The solution collects and processes security events from multiple AWS services a
 
 Detailed implementation steps, configuration screenshots and validation results are available in:
 
-- AWS_Threat_Detection_Pipeline_Report.pdf
+- architecture/architecture-explanation.md
+## Screenshots
+
+Implementation screenshots are available in the screenshots directory.
 
 ## Architecture
 
