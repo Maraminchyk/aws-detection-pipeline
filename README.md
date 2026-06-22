@@ -8,6 +8,12 @@ This project demonstrates the implementation of a cloud security monitoring pipe
 
 The solution collects and processes security events from multiple AWS services and ingests them into Splunk for monitoring and threat detection.
 
+## Documentation
+
+Detailed implementation steps, configuration screenshots and validation results are available in:
+
+- AWS_Threat_Detection_Pipeline_Report.pdf
+
 ## Architecture
 
 CloudTrail + GuardDuty + VPC Flow Logs
